@@ -28,13 +28,3 @@ Turning curiosity into capability.
 
 Build. Break. Learn. Repeat.
 
-
-
-Yash Madane
-
-Artificial Intelligence and Data Science Student
-AI • Data • Problem Solving
-
-Learning in public.
-Building in silence.
-Letting the work speak.
