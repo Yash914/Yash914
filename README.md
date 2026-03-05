@@ -28,7 +28,7 @@ Turning curiosity into capability.
 
 Build. Break. Learn. Repeat.
 
-If you want something more minimal, here’s an ultra-clean version:
+
 
 Yash Madane
 
