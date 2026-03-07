@@ -1,12 +1,7 @@
 
 <img src="https://github.com/user-attachments/assets/5894d48e-85e1-49e8-9c93-4f4f7ab11cff" width="900" height="280"/>
 
-
-
-# About Me:
-Computer Engineering student interested in AI, data, and building practical software. I enjoy turning ideas into small working systems — whether it’s experimenting with machine learning, analyzing data, or writing clean code.
-
-Currently focusing on improving problem-solving skills through C++ and building projects that connect AI with real-world use cases.
+AIML
 
 
 # Tech Stack:
