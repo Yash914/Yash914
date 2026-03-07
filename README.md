@@ -1,3 +1,8 @@
+
+![wallhaven-mlzoy1](https://github.com/user-attachments/assets/5894d48e-85e1-49e8-9c93-4f4f7ab11cff)
+
+
+
 # About Me:
 Computer Engineering student interested in AI, data, and building practical software. I enjoy turning ideas into small working systems — whether it’s experimenting with machine learning, analyzing data, or writing clean code.
 
